@@ -1,0 +1,39 @@
+{
+  "title": "DVIENTO",
+  "date": "3/09/20",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "dviento.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 13,
+  "totalSize": 201989,
+  "files": [
+    "dviento.jclic",
+    "dviento.jclic.js",
+    "este-resized.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "ne-resized.jpg",
+    "no-resized.jpg",
+    "norte-resized.jpg",
+    "oeste-resized1.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "se-resized.jpg",
+    "so-resized.jpg",
+    "sur-resized.jpg"
+  ]
+}
